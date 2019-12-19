@@ -19,7 +19,7 @@ Snake – The first published by Nokia, for monochrome phones. It was programmed
 
 1. Ensure that  Java and Eclipse is installed.
    * [Java](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
-   * [Eclipse] (https://www.eclipse.org/downloads/)
+   * [Eclipse](https://www.eclipse.org/downloads/)
   
 2. Git clone this repository
 ```
